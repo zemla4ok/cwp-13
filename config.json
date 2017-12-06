@@ -1,0 +1,7 @@
+{
+    "db" : "sys",
+    "login" : "root",
+    "password" : "root",
+    "host" : "localhost",
+    "dialect" : "mysql"
+  }
