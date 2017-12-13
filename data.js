@@ -34,25 +34,25 @@ module.exports = async function (db) {
         db.motions.create({
             latitude: 51.5103,
             longitude: 7.49347,
-            time: "2017-11-05T15:26:56.000Z",
+            time: "2017-12-05T15:26:56.000Z",
             vehicleId: 1
         }),
         db.motions.create({
             latitude: 59.1432,
             longitude: 49.1432,
-            time: "2017-11-05T15:56:56.000Z",
+            time: "2017-12-05T15:56:56.000Z",
             vehicleId: 1
         }),
         db.motions.create({
             latitude: 121.5103,
             longitude: 71.49347,
-            time: "2017-11-05T16:04:00.000Z",
+            time: "2017-12-05T16:04:00.000Z",
             vehicleId: 1
         }),
         db.motions.create({
             latitude: 151.5103,
             longitude: 117.49347,
-            time: "2017-11-05T17:11:12.000Z",
+            time: "2017-12-05T17:11:12.000Z",
             vehicleId: 1
         }),
     ]);
